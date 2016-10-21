@@ -18,7 +18,7 @@ The FMRL collective exists to make it easy for its member to make FMRL musical e
 No streaming MP3's, no WAV samples, every sound must be synthesised in the browser after the page loads. We know that's tough, but let's see how far we can push it.
 
 ## Open-source
-FMRL is built upon open-source principles. All FMRL related output will be managed on GitHub - enabling FMRL experiences to be forked and the evolution of FMRL to be traced.
+FMRL is built upon open-source principles. All FMRL related output will be managed on GitHub, enabling FMRL experiences to be forked and the evolution of FMRL to be traced.
 
 # Logistics
 Having founding principles is great, but let's discuss how we operationailse them to start creating music.
